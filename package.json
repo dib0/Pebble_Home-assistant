@@ -1,0 +1,21 @@
+{
+    "author": "bas@dib0.nl",
+    "dependencies": {},
+    "keywords": [],
+    "name": "home-assistant",
+    "pebble": {
+        "displayName": "Home-assistant",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "41ef02e3-7be8-46b9-b998-2e939d1de439",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
